@@ -71,8 +71,4 @@ The interface features icons that provide input descriptions when users hover ov
 ![image](https://github.com/user-attachments/assets/26da3c06-00f3-4584-bc3b-38b3fd82da25)
 
 
-## Installation and Setup
-1. Create an `.env` file in the root directory of your project and add your OpenAI API key: OPENAI_API_KEY=your_openai_api_key_here
-2. Run the application using the following command: streamlit run app.py
-
 

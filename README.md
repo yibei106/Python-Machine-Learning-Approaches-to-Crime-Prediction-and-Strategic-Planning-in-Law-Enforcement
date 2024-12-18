@@ -49,7 +49,7 @@ For each prediction task, multiple machine learning models were trained, tuned, 
    - **Polynomial Regression**
 
 ### Addressing Class Imbalance and Overfitting
-- **SMOTE** (Synthetic Minority Over-sampling Technique) was applied to balance the class distribution in tasks such as arrest prediction.
+- **SMOTE** (Synthetic Minority Over-sampling Technique) was applied to balance the class distribution in tasks such as arrest prediction. (BP-SMOTE may not be as suitable for this project compared to SMOTE.)
 - **Overfitting Mitigation**: Learning curves were plotted to identify and mitigate overfitting and underfitting issues.
 
 ## Deployment
